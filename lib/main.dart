@@ -6,22 +6,23 @@ void main() {
 }
 
 
-class ColorPickerApp extends StatelessWidget {
+class ColorPickerApp extends ______ {
   const ColorPickerApp({super.key});
+
   @override
-  Widget build(BuildContext context) {
+  Widget build(______) {
     return MaterialApp(
-      title: 'Favorite Colors',
+      title: '[put title here]',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: ______,
       ),
-      home: FavoriteColorsPage(),
+      home: ______(),
     );
   }
 }
-class FavoriteColorsPage extends StatefulWidget {
+class FavoriteColorsPage extends ______ {
   @override
-  _FavoriteColorsPageState createState() => _FavoriteColorsPageState();
+  _FavoriteColorsPageState ______() => _FavoriteColorsPageState();
 }
 
 class _FavoriteColorsPageState extends State<FavoriteColorsPage> {
@@ -68,28 +69,8 @@ class _FavoriteColorsPageState extends State<FavoriteColorsPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: Text('Favorite Colors'),
-      ),
-      body: Column(
-        children: [
-          ElevatedButton(
-            onPressed: () => _showColorPicker(context),
-            child: Text('Add a Favorite Color'),
-          ),
-          Expanded(
-            child: ListView.builder(
-              itemCount: favoriteColors.length,
-              itemBuilder: (context, index) {
-                return Container(
-                  height: 50,
-                  color: favoriteColors[index],
-                );
-              },
-            ),
-          ),
-        ],
-      ),
+      appBar: ______
+      body: ______
     );
   }
 }
