@@ -20,8 +20,8 @@
 ### Clone this repo to your local machine:
 
 ## 🏆 Challenge
-
-- 
+- You can do whatever you want in terms of UI, the only required functionality is that it uses the colorpicker widget already provided to allow the user to store an (infinite) list of their favorite colors, which is displayed on screen.
+- The structure of the code and several functions are already provided — read over the code given before you get started! 
 
 ## 🛟 Need Help?
 
