@@ -1,16 +1,28 @@
-# color_pick
+# Flutter Level Two Microchallenge
 
-A new Flutter project.
+## What is a micro-challenge?
+- A micro-challenge is a task/challenge that is a small project of code that can be done in a certain amount of time. It can be any idea that comes to mind but has to specifically be innovative and promote learning in any way. It is important that the micro challenges have different difficulty levels because some people might be more experienced than others so there has to be variety in that way. Most challenges should be able to be completed within a couple of hours to 2 days. This MicroChallenge's purpose is to prove a you have intermediate skill in Flutter. If you aren't familar with Flutter, here is a document (which is level one) created by Spark! to get you started. 
 
-## Getting Started
+## Difficulty = [[Difficulty Goes Here ⭐️]]
 
-This project is a starting point for a Flutter application.
+## What you will build:
+- An app which can create a list of the user's favorite colors
 
-A few resources to get you started if this is your first Flutter project:
+## How you will build it:
+- You will fill in all the blank pieces of the provided code. In some cases, there is an exact answer (such as for class declarations, methods, etc.), but in others, you are expected to create your own UI by using widgets.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Duration:
+- Less than a day
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Instructions
+## 🚀 Setup
+
+### Clone this repo to your local machine:
+
+## 🏆 Challenge
+
+- 
+
+## 🛟 Need Help?
+
+Go to the [Spark! Space](https://www.bu.edu/spark/resources/space/) and ask any student employee for a **Learning Ambassador** that can help with a micro-challenge.
