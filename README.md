@@ -24,4 +24,4 @@
 
 ## 🛟 Need Help?
 
-Go to the [Spark! Space](https://www.bu.edu/spark/resources/space/) and ask any student employee for a **Learning Ambassador** that can help with a micro-challenge.
+Go to the [Spark! Space](https://www.bu.edu/spark/resources/space/) and ask any student employee for a **Learning Ambassador** that can help with a micro-challenge. Additionally, you can email learning ambassador and creator of this Main Quest, Kaylin, at kaylinvb@bu.edu with any questions!
